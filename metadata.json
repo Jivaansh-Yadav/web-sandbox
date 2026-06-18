@@ -1,0 +1,6 @@
+{
+  "name": "Web Sandbox",
+  "description": "An application that runs any web URL in a sandboxed, edge-to-edge view that looks and feels 100% native, with customizable styles and script injections.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
